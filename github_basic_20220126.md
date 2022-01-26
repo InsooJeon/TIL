@@ -119,17 +119,17 @@
 
 
      1.  `touch .gitignore`로 ignore 파일 만든다.
-
+    
      2.  .gitignore는 반드시 git .init한 위치에 같이 두어야한다.
-
+    
      3.  해당 파일에 등록하기 싫은 `파일제목.확장자`를 입력한다.
-
+    
      4.  ignore는 이미 등록된 파일은 지정이 안되기 때문에 add로 올리기 전에 미리 지정해두어야 함
-
+    
      5.  https://gitignore.io/ 에서 사용하는 프로그램 검색하고 해당 내용 복사 붙여넣기 해서 완성
-
+    
          ![image-20220126164548271](github_basic_20220126.assets/image-20220126164548271.png)
-
+    
          * 왼쪽에 .gitignore 클릭해서 해당 내용 오른쪽에 작성하여 사용한다.
 
 
@@ -156,3 +156,7 @@
   1. Description
   2. public or Private
   3. Add.gitignore : 개인정보(ex api파일)같은 경우 
+
+# git clone
+
+* git clone은 복제 할때 해당 폴더를 만들어서 복제를 하는 것 이기 때문에 
