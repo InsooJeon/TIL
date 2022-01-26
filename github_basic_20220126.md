@@ -150,13 +150,3 @@
 * 최종적으로 5번 변경했을 때 확인 내용
 
   ![image-20220126113118300](images/image-20220126113118300.png)
-
-* ![image-20220126140842339](images/image-20220126140842339.png)
-
-  1. Description
-  2. public or Private
-  3. Add.gitignore : 개인정보(ex api파일)같은 경우 
-
-# git clone
-
-* git clone은 복제 할때 해당 폴더를 만들어서 복제를 하는 것 이기 때문에 
