@@ -4,7 +4,7 @@
 
 ### [1] Git 설치하기
 
-<img src="C:\Users\insoo\AppData\Roaming\Typora\typora-user-images\image-20220125153657345.png" alt="image-20220125153657345" style="zoom:100%;" />
+![image-20220125153657345](images/image-20220125153657345.png)
 
 1. C: / 사용자(insoo) / 현재 사용자 계정으로 이동한다.
 2. 마우스 우클릭후 Git bash Here 클릭한다.
@@ -12,7 +12,7 @@
 
 ### [2] GCU와 CLI 차이
 
-![image-20220125153936228](C:\Users\insoo\AppData\Roaming\Typora\typora-user-images\image-20220125153936228.png)
+![image-20220125153936228](images/image-20220125153936228.png)
 
 > 왼쪽은 GUI, 오른쪽은 CLI화면, 화면에 나타나는 모습에서 차이가 있다.
 >
@@ -69,7 +69,7 @@
 * 띄어쓰기로 구분하여 여러 파일을 한번에 생성할 수 있다.
   * ```touch text.txt 인수.txt 전인수.txt``` 입력 할 경우 text, 인수, 전인수 3개의 텍스트 문서 만들어짐
 
-![image-20220125155753367](C:\Users\insoo\AppData\Roaming\Typora\typora-user-images\image-20220125155753367.png)
+![image-20220125155753367](images/image-20220125155753367.png)
 
 2. mkdir
    * 새폴더 생성하는 명령어 touch와 마찬가지로 띄어쓰기로 여러가지 폴더 한번에 생성할 수 있다.
